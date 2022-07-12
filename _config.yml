@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Professional page"
+title                    : "Martine Mathieu"
 title_separator          : "-"
 name                     : &name "Martine Mathieu"
-description              : &description "PhD student in Geospatial analytics at North Carolina State University"
+description              : &description "PhD student in Geospatial Analytics at North Carolina State University"
 url                      : https://martinemathieu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinemathieu/martinemathieu.github.io" 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Martine Mathieu"
   avatar           : "profile.png"
-  bio              : "PhD student in Geospatial analytics"
+  bio              : "PhD student in Geospatial Analytics"
   location         : "Raleigh, NC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
