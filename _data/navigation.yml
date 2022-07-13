@@ -6,8 +6,9 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Fellowships-Awards"
-     url: /markdown/
-
+  - title: "Fellowships & Awards"
+    url: /year-archive/
+    
   - title: "CV"
-    url: /cv/ 
+    url: /cv/
+    
